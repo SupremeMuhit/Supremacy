@@ -4,22 +4,24 @@ layout: home
 
 hero:
   name: "𝖘𝖚𝖕𝖗𝖊𝖒𝖆𝖈𝖞"
-  text: "Supreme's Awesome Rules"
-  tagline: My great project tagline
+  # text: "Supreme's Awesome Rules"
+  tagline: Rules of 𝖘𝖚𝖕𝖗𝖊𝖒𝖆𝖈𝖞
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Get Started
+      link: /getstarted
+    # - theme: alt
+    #   text: 
+    #   link: 
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Rules
+    details: The rules of 𝖘𝖚𝖕𝖗𝖊𝖒𝖆𝖈𝖞
+    link: /rules
+  - title: Ban
+    details: Banned stuffs in 𝖘𝖚𝖕𝖗𝖊𝖒𝖆𝖈𝖞
+    link: /banned
+  # - title: Feature C
+  #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
